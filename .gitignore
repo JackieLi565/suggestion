@@ -6,3 +6,11 @@ node_modules/
 # Env
 .env
 .env.*
+
+# Build
+dist/
+out/
+
+# VS Code
+.vscode-test/
+*.vsix
